@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1561663860 source:c:\users\serinca construction\desktop\introtorandomness\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"CoinToss.h"
+
+1561662408 source:c:\users\serinca construction\desktop\introtorandomness\cointoss.c
+
+1561661950 c:\users\serinca construction\desktop\introtorandomness\cointoss.h
+

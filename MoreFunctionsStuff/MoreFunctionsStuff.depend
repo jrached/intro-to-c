@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1561491377 source:c:\users\serinca construction\desktop\morefunctionsstuff\main.c
+	<stdio.h>
+	<stdlib.h>
+	"RoundFloats.h"
+
+1561489772 c:\users\serinca construction\desktop\morefunctionsstuff\roundfloats.h
+
+1561491487 source:c:\users\serinca construction\desktop\morefunctionsstuff\roundfloats.c
+	<math.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1561056443 source:c:\users\serinca construction\desktop\introfunctions\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

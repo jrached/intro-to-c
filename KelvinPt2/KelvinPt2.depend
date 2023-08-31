@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1560886844 source:c:\users\serinca construction\desktop\kelvinpt2\main.c
+	<stdio.h>
+	<stdlib.h>
+
