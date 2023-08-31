@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1560267221 source:c:\users\serinca construction\desktop\testchar\main.c
+	<stdio.h>
+	<stdlib.h>
+

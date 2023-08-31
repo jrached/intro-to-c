@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1560449756 source:c:\users\serinca construction\desktop\switchstatements\main.c
+	<stdio.h>
+	<stdlib.h>
+

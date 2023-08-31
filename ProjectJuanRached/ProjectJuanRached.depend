@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1564362253 source:c:\users\serinca construction\desktop\c summer\projectjuanrached\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"ProjectFunctions.h"
+
+1564362194 source:c:\users\serinca construction\desktop\c summer\projectjuanrached\projectfunctions.c
+
+1564362194 c:\users\serinca construction\desktop\c summer\projectjuanrached\projectfunctions.h
+
