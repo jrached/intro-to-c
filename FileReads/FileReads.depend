@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1563913163 source:c:\users\serinca construction\desktop\c summer\filereads\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
