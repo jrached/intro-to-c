@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1561941278 source:c:\users\serinca construction\desktop\c summer\hw5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"CircleCalculations.h"
+
+1561941220 source:c:\users\serinca construction\desktop\c summer\hw5\circlecalculations.c
+
+1561939666 c:\users\serinca construction\desktop\c summer\hw5\circlecalculations.c
+
+1561937583 c:\users\serinca construction\desktop\c summer\hw5\circlecalculations.h
+

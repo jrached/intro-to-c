@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1561059800 source:c:\users\serinca construction\desktop\functionsexercise\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
